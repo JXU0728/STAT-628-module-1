@@ -4,7 +4,7 @@ library(car)
 library(dplyr)
 
 ### Read data
-body <- read.csv("code/BodyFat.csv",header = T)
+body <- read.csv("BodyFat.csv",header = T)
 body_fit <- body[,c(-1,-3)]
 
 ### Clean data DEPENDENT VARIABLE: body fat
