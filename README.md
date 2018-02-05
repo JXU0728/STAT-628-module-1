@@ -8,7 +8,7 @@ The repo contains:
 
 (2) a data folder containing the raw data named Bodyfat.csv
 
-(3) a code folder containing R codes.
+(3) a code folder containing R codes. The code named "final_code_containing_all_processes.R" is our final version of R code. Others are some codes we used during the test process.
 
 (4) a lots folder containing some of plots used in jupyter notebook summary.
 
