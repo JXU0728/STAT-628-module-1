@@ -10,7 +10,7 @@ The repo contains:
 
 (3) a code folder containing R codes.
 
-(4) an plots folder containing some of images produced.
+(4) an plots folder containing some of plots used in jupyter notebook summary.
 
 (5) The presentation slides.
 
